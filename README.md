@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Yunus Khan 
 - 🏫 I'm currently studying Robotics Engineering at Queen Mary University of London
-- 👨‍🎓 As part of my degree I learn Python, Java and C 
+- 👨‍🎓 As part of my degree I learn Python, Java and C and Arduino C++
 - 🎒 I have also previously studied HTML, CSS and JavaScript in school 
+- 🌟 I plan on learning DART with Flutter and Kotlin
